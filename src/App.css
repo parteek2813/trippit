@@ -1,0 +1,555 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.desktop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  width: 100%;
+}
+
+.desktop .group-wrapper {
+  background-color: #ffffff;
+  height: 800px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.desktop .group {
+  height: 810px;
+}
+
+.desktop .overlap {
+  background-image: url(https://c.animaapp.com/SHnkkd1L/img/rectangle-338.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 800px;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop .div {
+  height: 655px;
+  left: 835px;
+  position: absolute;
+  top: 108px;
+  width: 470px;
+}
+
+.desktop .overlap-group {
+  height: 655px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 470px;
+}
+
+.desktop .clip-path-group {
+  height: 497px;
+  left: 30px;
+  position: absolute;
+  top: 100px;
+  width: 430px;
+}
+
+.desktop .vector {
+  height: 8px;
+  left: 386px;
+  position: absolute;
+  top: 556px;
+  width: 10px;
+}
+
+.desktop .img {
+  height: 101px;
+  left: 386px;
+  position: absolute;
+  top: 461px;
+  width: 26px;
+}
+
+.desktop .vector-2 {
+  height: 7px;
+  left: 387px;
+  position: absolute;
+  top: 552px;
+  width: 10px;
+}
+
+.desktop .vector-3 {
+  height: 39px;
+  left: 331px;
+  position: absolute;
+  top: 524px;
+  width: 14px;
+}
+
+.desktop .vector-4 {
+  height: 115px;
+  left: 368px;
+  position: absolute;
+  top: 464px;
+  width: 21px;
+}
+
+.desktop .vector-5 {
+  height: 49px;
+  left: 342px;
+  position: absolute;
+  top: 325px;
+  width: 31px;
+}
+
+.desktop .clip-path-group-2 {
+  height: 27px;
+  left: 342px;
+  position: absolute;
+  top: 321px;
+  width: 31px;
+}
+
+.desktop .vector-6 {
+  height: 39px;
+  left: 376px;
+  position: absolute;
+  top: 340px;
+  width: 26px;
+}
+
+.desktop .vector-7 {
+  height: 79px;
+  left: 389px;
+  position: absolute;
+  top: 339px;
+  width: 29px;
+}
+
+.desktop .vector-8 {
+  height: 80px;
+  left: 333px;
+  position: absolute;
+  top: 352px;
+  width: 25px;
+}
+
+.desktop .vector-9 {
+  height: 69px;
+  left: 352px;
+  position: absolute;
+  top: 360px;
+  width: 20px;
+}
+
+.desktop .vector-10 {
+  height: 112px;
+  left: 369px;
+  position: absolute;
+  top: 366px;
+  width: 78px;
+}
+
+.desktop .vector-11 {
+  height: 140px;
+  left: 317px;
+  position: absolute;
+  top: 424px;
+  width: 54px;
+}
+
+.desktop .vector-12 {
+  height: 21px;
+  left: 341px;
+  position: absolute;
+  top: 559px;
+  width: 18px;
+}
+
+.desktop .vector-13 {
+  height: 101px;
+  left: 309px;
+  position: absolute;
+  top: 354px;
+  width: 44px;
+}
+
+.desktop .vector-14 {
+  height: 98px;
+  left: 363px;
+  position: absolute;
+  top: 365px;
+  width: 16px;
+}
+
+.desktop .vector-15 {
+  height: 7px;
+  left: 377px;
+  position: absolute;
+  top: 568px;
+  width: 12px;
+}
+
+.desktop .vector-16 {
+  height: 50px;
+  left: 333px;
+  position: absolute;
+  top: 355px;
+  width: 18px;
+}
+
+.desktop .vector-17 {
+  height: 52px;
+  left: 314px;
+  position: absolute;
+  top: 402px;
+  width: 38px;
+}
+
+.desktop .vector-18 {
+  height: 24px;
+  left: 316px;
+  position: absolute;
+  top: 419px;
+  width: 25px;
+}
+
+.desktop .vector-19 {
+  height: 13px;
+  left: 350px;
+  position: absolute;
+  top: 433px;
+  width: 18px;
+}
+
+.desktop .vector-20 {
+  height: 16px;
+  left: 340px;
+  position: absolute;
+  top: 426px;
+  width: 20px;
+}
+
+.desktop .vector-21 {
+  height: 15px;
+  left: 337px;
+  position: absolute;
+  top: 423px;
+  width: 10px;
+}
+
+.desktop .vector-22 {
+  height: 66px;
+  left: 319px;
+  position: absolute;
+  top: 359px;
+  width: 27px;
+}
+
+.desktop .vector-23 {
+  height: 78px;
+  left: 362px;
+  position: absolute;
+  top: 371px;
+  width: 58px;
+}
+
+.desktop .vector-24 {
+  height: 78px;
+  left: 362px;
+  position: absolute;
+  top: 371px;
+  width: 59px;
+}
+
+.desktop .vector-25 {
+  height: 2px;
+  left: 358px;
+  position: absolute;
+  top: 434px;
+  width: 2px;
+}
+
+.desktop .vector-26 {
+  height: 2px;
+  left: 355px;
+  position: absolute;
+  top: 436px;
+  width: 3px;
+}
+
+.desktop .vector-27 {
+  height: 2px;
+  left: 353px;
+  position: absolute;
+  top: 438px;
+  width: 4px;
+}
+
+.desktop .vector-28 {
+  height: 14px;
+  left: 387px;
+  position: absolute;
+  top: 548px;
+  width: 3px;
+}
+
+.desktop .vector-29 {
+  height: 2px;
+  left: 375px;
+  position: absolute;
+  top: 496px;
+  width: 7px;
+}
+
+.desktop .vector-30 {
+  height: 2px;
+  left: 373px;
+  position: absolute;
+  top: 499px;
+  width: 5px;
+}
+
+.desktop .vector-31 {
+  height: 1px;
+  left: 376px;
+  position: absolute;
+  top: 502px;
+  width: 5px;
+}
+
+.desktop .vector-32 {
+  height: 1px;
+  left: 394px;
+  position: absolute;
+  top: 499px;
+  width: 5px;
+}
+
+.desktop .vector-33 {
+  height: 1px;
+  left: 396px;
+  position: absolute;
+  top: 501px;
+  width: 5px;
+}
+
+.desktop .vector-34 {
+  height: 1px;
+  left: 399px;
+  position: absolute;
+  top: 498px;
+  width: 3px;
+}
+
+.desktop .vector-35 {
+  height: 58px;
+  left: 348px;
+  position: absolute;
+  top: 465px;
+  width: 18px;
+}
+
+.desktop .vector-36 {
+  height: 31px;
+  left: 350px;
+  position: absolute;
+  top: 512px;
+  width: 8px;
+}
+
+.desktop .vector-37 {
+  height: 41px;
+  left: 323px;
+  position: absolute;
+  top: 461px;
+  width: 13px;
+}
+
+.desktop .vector-38 {
+  height: 33px;
+  left: 323px;
+  position: absolute;
+  top: 489px;
+  width: 11px;
+}
+
+.desktop .vector-39 {
+  height: 13px;
+  left: 337px;
+  position: absolute;
+  top: 426px;
+  width: 7px;
+}
+
+.desktop .vector-40 {
+  height: 31px;
+  left: 412px;
+  position: absolute;
+  top: 429px;
+  width: 24px;
+}
+
+.desktop .vector-41 {
+  height: 38px;
+  left: 402px;
+  position: absolute;
+  top: 435px;
+  width: 21px;
+}
+
+.desktop .vector-42 {
+  height: 36px;
+  left: 390px;
+  position: absolute;
+  top: 438px;
+  width: 16px;
+}
+
+.desktop .vector-43 {
+  height: 28px;
+  left: 304px;
+  position: absolute;
+  top: 390px;
+  width: 5px;
+}
+
+.desktop .vector-44 {
+  height: 20px;
+  left: 335px;
+  position: absolute;
+  top: 323px;
+  width: 5px;
+}
+
+.desktop .vector-45 {
+  height: 23px;
+  left: 413px;
+  position: absolute;
+  top: 341px;
+  width: 6px;
+}
+
+.desktop .vector-46 {
+  height: 16px;
+  left: 426px;
+  position: absolute;
+  top: 427px;
+  width: 20px;
+}
+
+.desktop .vector-47 {
+  height: 21px;
+  left: 399px;
+  position: absolute;
+  top: 529px;
+  width: 5px;
+}
+
+.desktop .vector-48 {
+  height: 20px;
+  left: 370px;
+  position: absolute;
+  top: 548px;
+  width: 4px;
+}
+
+.desktop .vector-49 {
+  height: 12px;
+  left: 390px;
+  position: absolute;
+  top: 571px;
+  width: 3px;
+}
+
+.desktop .vector-50 {
+  height: 20px;
+  left: 326px;
+  position: absolute;
+  top: 546px;
+  width: 8px;
+}
+
+.desktop .vector-51 {
+  height: 29px;
+  left: 313px;
+  position: absolute;
+  top: 476px;
+  width: 1px;
+}
+
+.desktop .vector-52 {
+  height: 29px;
+  left: 364px;
+  position: absolute;
+  top: 376px;
+  width: 1px;
+}
+
+.desktop .vector-53 {
+  height: 22px;
+  left: 340px;
+  position: absolute;
+  top: 353px;
+  width: 15px;
+}
+
+.desktop .vector-54 {
+  height: 10px;
+  left: 356px;
+  position: absolute;
+  top: 365px;
+  width: 7px;
+}
+
+.desktop .vector-55 {
+  height: 15px;
+  left: 410px;
+  position: absolute;
+  top: 382px;
+  width: 6px;
+}
+
+.desktop .vector-56 {
+  height: 11px;
+  left: 371px;
+  position: absolute;
+  top: 418px;
+  width: 6px;
+}
+
+.desktop .vector-57 {
+  height: 2px;
+  left: 7209px;
+  position: absolute;
+  top: 1505px;
+  width: 2px;
+}
+
+.desktop .div-2 {
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop .overlap-wrapper {
+  height: 72px;
+}
+
+.desktop .overlap-2 {
+  height: 72px;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop .group-2 {
+  height: 1px;
+  left: 322px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}

@@ -1,0 +1,136 @@
+.image {
+  height: 36px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 150px;
+}
+
+.container {
+  height: 37px;
+  left: 542px;
+  position: absolute;
+  top: 18px;
+  width: 775px;
+}
+
+.desktop .group-4 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 9px;
+  width: 601px;
+}
+
+.desktop .text-wrapper {
+  color: #000000b2;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 396px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 100px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.desktop .text-wrapper-2 {
+  color: #000000b2;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 100px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.desktop .text-wrapper-3 {
+  color: #000000b2;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 100px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.desktop .text-wrapper-4 {
+  color: #000000b2;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 264px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 100px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.desktop .text-wrapper-5 {
+  color: #000000b2;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 528px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 63px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.desktop .overlap-group-wrapper {
+  height: 37px;
+  left: 649px;
+  position: absolute;
+  top: 0;
+  width: 128px;
+  cursor: pointer;
+}
+
+.desktop .div-wrapper {
+  border: 1px solid;
+  border-color: #000000b2;
+  border-radius: 8px;
+  height: 37px;
+  position: relative;
+  width: 126px;
+}
+
+.desktop .text-wrapper-6 {
+  color: #000000b2;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 75px;
+}
